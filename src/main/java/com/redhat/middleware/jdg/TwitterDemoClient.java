@@ -29,8 +29,8 @@ import java.io.InputStreamReader;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-import org.infinispan.api.BasicCache;
-import org.infinispan.api.BasicCacheContainer;
+import org.infinispan.commons.api.BasicCache;
+import org.infinispan.commons.api.BasicCacheContainer;
 
 import twitter4j.Status;
 import twitter4j.StatusDeletionNotice;

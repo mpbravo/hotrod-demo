@@ -26,7 +26,7 @@ package com.redhat.middleware.jdg;
 import java.util.Set;
 import java.util.logging.Logger;
 
-import org.infinispan.api.BasicCache;
+import org.infinispan.commons.api.BasicCache;
 import org.infinispan.client.hotrod.RemoteCacheManager;
 import org.jboss.logging.Logger.Level;
 

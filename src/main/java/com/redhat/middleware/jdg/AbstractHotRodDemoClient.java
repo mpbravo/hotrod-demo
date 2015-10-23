@@ -22,8 +22,10 @@
 */
 package com.redhat.middleware.jdg;
 
-import org.infinispan.api.BasicCache;
-import org.infinispan.api.BasicCacheContainer;
+import org.infinispan.commons.api.BasicCache;
+import org.infinispan.commons.api.BasicCacheContainer;
+
+
 
 /**
  * 
